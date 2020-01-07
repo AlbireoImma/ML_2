@@ -9,3 +9,5 @@ Temas:
 - Métodos de kernel.
 - Extracción de características.
 - Múltiples anotaciones
+
+[Link Youtube](https://youtu.be/sfGN1kBGiu8)
